@@ -41,6 +41,24 @@ img {
   width: 80%;
 }
 
+#base{
+  width: 150px;
+  height:150px;
+  background: white;
+  border-radius: 50%;
+  box-shadow: 10px 20px 5px rgb(71, 69, 69);
+}
+
+#play{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background: red;
+  color: white;
+  font-family: 'Indie Flower', cursive;
+  font-size: 2rem;
+}
+
 footer {
   margin-top: 5%;
   color: #EEEEEE;
@@ -49,7 +67,7 @@ footer {
 
 }
 
-button{
+#github{
   background: blue;
   border-radius: 100px;
   
